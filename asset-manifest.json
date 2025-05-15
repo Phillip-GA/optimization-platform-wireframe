@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/optimization-platform-wireframe/static/css/main.92c8d4eb.css",
+    "main.js": "/optimization-platform-wireframe/static/js/main.aa9f7925.js",
+    "index.html": "/optimization-platform-wireframe/index.html",
+    "main.92c8d4eb.css.map": "/optimization-platform-wireframe/static/css/main.92c8d4eb.css.map",
+    "main.aa9f7925.js.map": "/optimization-platform-wireframe/static/js/main.aa9f7925.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.aa9f7925.js"
+  ]
+}
