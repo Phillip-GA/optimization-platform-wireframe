@@ -1,5 +1,5 @@
 import React from 'react';
-import Wireframes from './Wireframes';
+import Wireframes from './wireframes';
 import './index.css';
 
 function App() {
